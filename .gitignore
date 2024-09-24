@@ -17,7 +17,6 @@ build/
 
 # Jupyter Notebooks
 *.ipynb_checkpoints
-*.ipynb
 
 # Other
 .env
